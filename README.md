@@ -41,4 +41,4 @@ Project Highlights:
 .Provides actionable insights from raw cricket data using visualization techniques
 
 Screenshot:
-(https://github.com/parveenshahina564-maker/IPL-PowerBI-Analysis/blob/main/ipl.png)
+![Dashboard](https://github.com/parveenshahina564-maker/IPL-PowerBI-Analysis/blob/main/ipl.png)
