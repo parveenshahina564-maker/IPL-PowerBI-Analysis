@@ -39,3 +39,6 @@ Project Highlights:
 .Improved data interpretation through charts, graphs, and KPIs
 .Demonstrates practical skills in sports analytics and business intelligence
 .Provides actionable insights from raw cricket data using visualization techniques
+
+Screenshot:
+(https://github.com/parveenshahina564-maker/IPL-PowerBI-Analysis/blob/main/ipl.png)
